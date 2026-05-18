@@ -1,12 +1,12 @@
 {
-  "name": "react-tracked",
+  "name": "react-tracked-tony",
   "description": "State usage tracking with Proxies. Optimize re-renders for useState/useReducer, React Redux, Zustand and others.",
   "version": "2.0.1",
   "type": "module",
   "author": "Daishi Kato",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dai-shi/react-tracked.git"
+    "url": "https://github.com/daltonchristiano060-gif/react-tracked-tony.git"
   },
   "homepage": "https://react-tracked.js.org",
   "source": "./src/index.ts",
